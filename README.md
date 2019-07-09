@@ -16,7 +16,7 @@ A demonstration can be found <a href="https://drive.google.com/file/d/1UFcWh7oA0
 1. Raspberry Pi 3 <br>
 2. <a href=https://www.microcenter.com/product/476340/velleman-pir-motion-sensor-for-arduino>PIR Motion Sensor </a> <br>
 3. Female to Female jumper Wires <br>
-4. Powered Computer Speakers (I used some cheap logitech ones like <a href=https://www.amazon.com/Logitech-S120-2-0-Stereo-Speakers/dp/B000R9AAJA/ref=sr_1_10?keywords=logitech+speakers&qid=1562628803&s=gateway&sr=8-10>these.</a> <br>
+4. Powered Computer Speakers (I used some cheap logitech ones like <a href=https://www.amazon.com/Logitech-S120-2-0-Stereo-Speakers/dp/B000R9AAJA/ref=sr_1_10?keywords=logitech+speakers&qid=1562628803&s=gateway&sr=8-10>these.</a>) <br>
 
 <h3>Directions</h3>
 I'm going to assume you're a beginner and go through the basics of setting up this project. When starting out with any Raspberry Pi project it's always a good idea to familiarize yourself with a GPIO diagram like this one. <br>
