@@ -7,11 +7,10 @@ This is a dumb project written in python that's made on the Raspberry Pi 3B+. It
 A demonstration can be found <a href="https://drive.google.com/file/d/1UFcWh7oA0bk83CSIYuuevMXwviXVxReI/view?usp=sharing"> here. </a> <br>
 
 <h3>Library Dependencies</h3>
-```
-sudo pip install gpiozero
-sudo apt-get install python-pygame
 
-```
+<code>sudo pip install gpiozero </code> <br>
+<code>sudo apt-get install python-pygame </code> <br>
+
 
 <h3>What You Will Need</h3>
 1. Raspberry Pi 3
