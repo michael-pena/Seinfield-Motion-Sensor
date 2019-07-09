@@ -2,7 +2,7 @@
 
 
 <h3>What is this project?</h3>
-This is a dumb project written in python that's made on the Raspberry Pi 3B+. It plays a random Seinfeld bass riff when you set off a pir motion sensor. Put it next to a doorway for anyone who enters for a maximum 90's sitcom effect. <br>
+This is a dumb project written in python that's made on the Raspberry Pi 3B+. It plays a random Seinfeld bass riff when you set off a pir motion sensor. Put it next to a doorway for anyone who enters for a maximum 90's sitcom effect. <br> <br>
 
 A demonstration can be found <a href="https://drive.google.com/file/d/1UFcWh7oA0bk83CSIYuuevMXwviXVxReI/view?usp=sharing"> here. </a> <br>
 
